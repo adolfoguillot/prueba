@@ -1,1 +1,2 @@
-informacion del planeta rojo
+informacion del planeta rojo:
+es rojo
