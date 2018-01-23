@@ -1,4 +1,5 @@
-aqui tenemos un problema
+resolvimos el conflicto
+e ignoramos todo lo demás
 informacion del planeta rojo:
 es rojo
 y esta más allá de la tierra
